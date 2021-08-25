@@ -1,0 +1,28 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "a project to run programmes",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jahneo/jest-another-RPG.git"
+  },
+  "keywords": [
+    "enemy",
+    "friend",
+    "fight",
+    "potion"
+  ],
+  "author": "Neil Hall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jahneo/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Jahneo/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
